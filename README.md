@@ -1,6 +1,6 @@
 # modul7
 
-<h3> SS VOLUME DAN BERATBADAN</3>
+<h3> SS VOLUME DAN BERATBADAN</h3></br>
 ![balok](https://cloud.githubusercontent.com/assets/22139208/20349678/097a0c84-ac3e-11e6-87d4-d87b6b47c234.JPG)
 ![balokhasil](https://cloud.githubusercontent.com/assets/22139208/20349676/09780736-ac3e-11e6-9736-8096a3d6f046.JPG)
 ![bb](https://cloud.githubusercontent.com/assets/22139208/20349675/097783c4-ac3e-11e6-8076-715b27bd6317.JPG)
